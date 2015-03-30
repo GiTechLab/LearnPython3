@@ -1,5 +1,6 @@
 __author__ = 'YS1003'
 
+import sys
 print('Hello Python.')
 
 
@@ -12,3 +13,4 @@ my_func('Yang Shen')
 
 my_func('MiaoMiao', 3)
 
+print(sys.path)

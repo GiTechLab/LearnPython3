@@ -2,7 +2,9 @@ __author__ = 'YS1003'
 
 myArrayG = ["SG", "NG", "VG", "HG"]
 print(myArrayG)
+print(list(reversed(myArrayG)))
 print(len(myArrayG))
+
 # index from the beginning
 print(myArrayG[1])
 print(myArrayG[0])
@@ -18,6 +20,8 @@ print(myArrayG[0:3])
 print(myArrayG[1:3])
 print(myArrayG[1:-1])
 print(myArrayG[-1:-1])
+
+
 
 
 

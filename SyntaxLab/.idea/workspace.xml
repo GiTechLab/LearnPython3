@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a9918af-4d01-43cc-8032-697c6e8e77e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SyntaxLab.iml" afterPath="$PROJECT_DIR$/.idea/SyntaxLab.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../IOUtility/helpers/oshelper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../IOUtility/.idea/misc.xml" afterPath="$PROJECT_DIR$/../IOUtility/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SyntaxLab.iws" />
     <ignored path=".idea/workspace.xml" />
